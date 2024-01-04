@@ -280,4 +280,6 @@ place5.html
 ![Alt text](place5.png)
 
 ## RESULT
+___
 The program for implementing image maps using HTML is executed successfully.
+___
